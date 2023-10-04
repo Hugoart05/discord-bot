@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "discord-bot": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "DISCORDTOKEN": "MTE1ODg3NDAxNjM5MjY3OTUyNA.GDLyXq.6Z2rgs6FjmkMhEj-vei3BwaYAiGRgoUING9dqg"
+      },
+      "remoteDebugEnabled": false
+    }
+  }
+}
